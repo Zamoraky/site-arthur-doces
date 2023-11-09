@@ -91,5 +91,15 @@ nav ul li .active{
     background-color: burlywood ;
 }
 
+.main-title {
+    text-align: center; /* Centraliza o texto */
+    color: #ffffff; /* Cor branca */
+    margin-bottom: 30px; /* Espaço inferior para separar dos produtos, ajuste conforme necessário */
+    border-bottom: 2px solid #ffffff;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+
 
 
