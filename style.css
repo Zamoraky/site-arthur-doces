@@ -15,7 +15,7 @@ section {
     background-position: 30%;
 }
 
-.container {
+.cabeca {
     width: 85%;
     margin: auto;
 }
@@ -90,3 +90,6 @@ nav ul li .active{
 .article .btn:hover {
     background-color: burlywood ;
 }
+
+
+
